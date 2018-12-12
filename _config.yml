@@ -1,5 +1,12 @@
 theme: jekyll-theme-cayman
 plugins:
-  - jemoji
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
+ - jekyll-include-cache
 title: Welome to creecros's homepage
 description: Here you'll find a collection of projects I maintain, collaborate on, or contribute to.
