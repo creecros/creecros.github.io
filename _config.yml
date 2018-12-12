@@ -8,5 +8,6 @@ plugins:
  - jemoji
  - jekyll-mentions
  - jekyll-include-cache
+ - jekyll-admin
 title: Welome to creecros's homepage
 description: Here you'll find a collection of projects I maintain, collaborate on, or contribute to.
